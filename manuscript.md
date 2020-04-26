@@ -56,11 +56,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/fc96602f9ca898a735434b5917a3448ba8ac5385/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/fc96602f9ca898a735434b5917a3448ba8ac5385/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/fc96602f9ca898a735434b5917a3448ba8ac5385/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -92,9 +92,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/fc96602f9ca898a735434b5917a3448ba8ac5385/))
+([permalink](https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/))
 was automatically generated
-from [desanker/globalnap@fc96602](https://github.com/desanker/globalnap/tree/fc96602f9ca898a735434b5917a3448ba8ac5385)
+from [desanker/globalnap@b9247fa](https://github.com/desanker/globalnap/tree/b9247fa263b6c3c2022ea2ab504713d8369091a8)
 on April 26, 2020.
 </em></small>
 
