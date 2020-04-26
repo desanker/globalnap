@@ -1,5 +1,6 @@
 ---
 author-meta:
+- Paul V. Desanker
 - Author2
 bibliography:
 - content/manual-references.json
@@ -38,6 +39,12 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
+  <meta name="citation_author" content="Paul V. Desanker" />
+
+  <meta name="citation_author_institution" content="UNFCCC Secretariat" />
+
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
   <meta name="citation_author" content="Author2" />
 
   <meta name="citation_author_institution" content="UNFCCC Secretariat" />
@@ -56,11 +63,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -92,9 +99,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/b9247fa263b6c3c2022ea2ab504713d8369091a8/))
+([permalink](https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/))
 was automatically generated
-from [desanker/globalnap@b9247fa](https://github.com/desanker/globalnap/tree/b9247fa263b6c3c2022ea2ab504713d8369091a8)
+from [desanker/globalnap@ca4e349](https://github.com/desanker/globalnap/tree/ca4e34982cc7b998f8ef477681073e3e8762122c)
 on April 26, 2020.
 </em></small>
 
@@ -102,11 +109,20 @@ on April 26, 2020.
 
 
 
-+ **Author2**<br>
++ **Paul V. Desanker**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [desanker](https://github.com/desanker)<br>
+  <small>
+     UNFCCC Secretariat
+  </small>
+
++ **Author2**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [globalopennap](https://github.com/globalopennap)<br>
   <small>
      UNFCCC Secretariat
   </small>
