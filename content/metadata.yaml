@@ -1,5 +1,5 @@
 ---
-title: Malawi Open NAP
+title: Global Open NAP
 keywords:
   - Open NAP
   - UNFCCC
@@ -10,8 +10,13 @@ authors:
     name: Paul V. Desanker
     initials: PD
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: xx
     email: PDesanker@unfccc.int
     affiliations:
       - UNFCCC Secretariat
-    
+    name: Author2
+    initials: PD
+    orcid: XXXX-XXXX-XXXX-XXXX
+    email: XX@unfccc.int
+    affiliations:
+      - UNFCCC Secretariat
+
