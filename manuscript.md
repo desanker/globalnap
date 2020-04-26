@@ -2,6 +2,8 @@
 author-meta:
 - Paul V. Desanker
 - Author2
+- John Doe
+- Jane Roe
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-26'
@@ -51,6 +53,22 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
 
+  <meta name="citation_author" content="John Doe" />
+
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
+  <meta name="twitter:creator" content="@johndoe" />
+
+  <meta name="citation_author" content="Jane Roe" />
+
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+
   <link rel="canonical" href="https://desanker.github.io/globalnap/" />
 
   <meta property="og:url" content="https://desanker.github.io/globalnap/" />
@@ -63,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -99,9 +117,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/ca4e34982cc7b998f8ef477681073e3e8762122c/))
+([permalink](https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/))
 was automatically generated
-from [desanker/globalnap@ca4e349](https://github.com/desanker/globalnap/tree/ca4e34982cc7b998f8ef477681073e3e8762122c)
+from [desanker/globalnap@38907bb](https://github.com/desanker/globalnap/tree/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e)
 on April 26, 2020.
 </em></small>
 
@@ -125,6 +143,27 @@ on April 26, 2020.
     [globalopennap](https://github.com/globalopennap)<br>
   <small>
      UNFCCC Secretariat
+  </small>
+
++ **John Doe**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [johndoe](https://github.com/johndoe)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [johndoe](https://twitter.com/johndoe)<br>
+  <small>
+     Department of Something, University of Whatever
+     · Funded by Grant XXXXXXXX
+  </small>
+
++ **Jane Roe**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
