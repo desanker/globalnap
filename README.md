@@ -12,7 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This repository is for the Malawi Open NAP.
+This repository is for the Global Open NAP.
 
 ## Manubot
 
