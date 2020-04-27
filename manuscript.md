@@ -6,7 +6,7 @@ author-meta:
 - Jane Roe
 bibliography:
 - content/manual-references.json
-date-meta: '2020-04-26'
+date-meta: '2020-04-27'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -25,9 +25,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Global Open NAP" />
 
-  <meta name="dc.date" content="2020-04-26" />
+  <meta name="dc.date" content="2020-04-27" />
 
-  <meta name="citation_publication_date" content="2020-04-26" />
+  <meta name="citation_publication_date" content="2020-04-27" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -81,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/1d219c5528acd2255af5bb7dac2bd9a42fd99289/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/1d219c5528acd2255af5bb7dac2bd9a42fd99289/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/1d219c5528acd2255af5bb7dac2bd9a42fd99289/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -117,10 +117,10 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e/))
+([permalink](https://desanker.github.io/globalnap/v/1d219c5528acd2255af5bb7dac2bd9a42fd99289/))
 was automatically generated
-from [desanker/globalnap@38907bb](https://github.com/desanker/globalnap/tree/38907bbf9fd9e79dc1caf7ea7d21a5fd1cc2575e)
-on April 26, 2020.
+from [desanker/globalnap@1d219c5](https://github.com/desanker/globalnap/tree/1d219c5528acd2255af5bb7dac2bd9a42fd99289)
+on April 27, 2020.
 </em></small>
 
 ## Authors
