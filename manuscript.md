@@ -81,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/9d92db9046c31913c462b3ecf058a83ca95be808/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/9d92db9046c31913c462b3ecf058a83ca95be808/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/9d92db9046c31913c462b3ecf058a83ca95be808/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -117,9 +117,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/9d92db9046c31913c462b3ecf058a83ca95be808/))
+([permalink](https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/))
 was automatically generated
-from [desanker/globalnap@9d92db9](https://github.com/desanker/globalnap/tree/9d92db9046c31913c462b3ecf058a83ca95be808)
+from [desanker/globalnap@ec3d9b0](https://github.com/desanker/globalnap/tree/ec3d9b05241abfb3e5a32f662637f20c4c0ee371)
 on May 1, 2020.
 </em></small>
 
@@ -179,17 +179,19 @@ on May 1, 2020.
 
 1. Introduction to the Global Open NAP initiative
 
-2. Developing a master collection of systems of systems for adaptation planning 
+2. Developing a master collection of systems of systems for adaptation planning: mapping to SDGs, Urban areas, Sendai Framework
 
 3. The Global Open NAP
 
-4. Developing climate change scenarios that capture impact climate change hazards at all scales, beyond conventional downscaled results for local areas
+4. Innovative solutions for DRR, preemptive adaptation and contingency measures to span the full climate change risk landscape
 
-5. Lessons learned from COVID-19 for climate change risk assessment and management
+5. Developing climate change scenarios that capture impact climate change hazards at all scales, beyond conventional downscaled results for local areas
 
-6. PEG ME Version 2.0: M&E ... how to enrich empirical indices with model context about the evolution of the numbers
+6. Lessons learned from COVID-19 for climate change risk assessment and management
 
-7. A continuous integration approach in producing living documents: The always up-to-date NAP
+7. PEG ME Version 2.0: M&E ... how to enrich empirical indices with model context about the evolution of the numbers
+
+8. A continuous integration approach in producing living documents: The always up-to-date NAP
 
 
 
