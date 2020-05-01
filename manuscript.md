@@ -81,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/f08e5d1f663acda1ebbbdd270fd531dd3bb74610/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/f08e5d1f663acda1ebbbdd270fd531dd3bb74610/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/f08e5d1f663acda1ebbbdd270fd531dd3bb74610/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -117,9 +117,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/ec3d9b05241abfb3e5a32f662637f20c4c0ee371/))
+([permalink](https://desanker.github.io/globalnap/v/f08e5d1f663acda1ebbbdd270fd531dd3bb74610/))
 was automatically generated
-from [desanker/globalnap@ec3d9b0](https://github.com/desanker/globalnap/tree/ec3d9b05241abfb3e5a32f662637f20c4c0ee371)
+from [desanker/globalnap@f08e5d1](https://github.com/desanker/globalnap/tree/f08e5d1f663acda1ebbbdd270fd531dd3bb74610)
 on May 1, 2020.
 </em></small>
 
@@ -192,6 +192,8 @@ on May 1, 2020.
 7. PEG ME Version 2.0: M&E ... how to enrich empirical indices with model context about the evolution of the numbers
 
 8. A continuous integration approach in producing living documents: The always up-to-date NAP
+
+9. Inventory of global programmes including data and models contributing to global adaptation
 
 
 
