@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/desanker/globalnap/tree/gh-pages) branch hosts the contents of this directory at <https://desanker.github.io/globalnap/>.
-The permalink for this webpage version is <https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/>.
+The permalink for this webpage version is <https://desanker.github.io/globalnap/v/3684ee965502d5675e8e4ae1f0c75d417e8f31bf/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://desanker.github.io/globalnap/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`1f8694e4841b134f0fd7407393452228738610a7`](https://github.com/desanker/globalnap/commit/1f8694e4841b134f0fd7407393452228738610a7).
+[`3684ee965502d5675e8e4ae1f0c75d417e8f31bf`](https://github.com/desanker/globalnap/commit/3684ee965502d5675e8e4ae1f0c75d417e8f31bf).
