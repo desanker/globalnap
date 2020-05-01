@@ -81,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/8c8fddfea1287a5a6204e960b46c72b4ff102600/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/0867bb5f181762f8daeadc5b7ac6e4222d9c7f0f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/8c8fddfea1287a5a6204e960b46c72b4ff102600/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/0867bb5f181762f8daeadc5b7ac6e4222d9c7f0f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/8c8fddfea1287a5a6204e960b46c72b4ff102600/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/0867bb5f181762f8daeadc5b7ac6e4222d9c7f0f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -117,9 +117,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/8c8fddfea1287a5a6204e960b46c72b4ff102600/))
+([permalink](https://desanker.github.io/globalnap/v/0867bb5f181762f8daeadc5b7ac6e4222d9c7f0f/))
 was automatically generated
-from [desanker/globalnap@8c8fddf](https://github.com/desanker/globalnap/tree/8c8fddfea1287a5a6204e960b46c72b4ff102600)
+from [desanker/globalnap@0867bb5](https://github.com/desanker/globalnap/tree/0867bb5f181762f8daeadc5b7ac6e4222d9c7f0f)
 on May 1, 2020.
 </em></small>
 
@@ -177,7 +177,7 @@ on May 1, 2020.
 
 ## List of Papers
 
-1 Introduction to the Global Open NAP initiative
+1. Introduction to the Global Open NAP initiative
 
 2. The Global Open NAP
 
