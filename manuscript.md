@@ -81,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/b3377fd94b3da91a733499d9c0d11ccb22a50353/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/b3377fd94b3da91a733499d9c0d11ccb22a50353/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/b3377fd94b3da91a733499d9c0d11ccb22a50353/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -117,9 +117,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/b3377fd94b3da91a733499d9c0d11ccb22a50353/))
+([permalink](https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/))
 was automatically generated
-from [desanker/globalnap@b3377fd](https://github.com/desanker/globalnap/tree/b3377fd94b3da91a733499d9c0d11ccb22a50353)
+from [desanker/globalnap@94d9e90](https://github.com/desanker/globalnap/tree/94d9e90d803abd94ed7b2b26eaa98614968bf36b)
 on May 1, 2020.
 </em></small>
 
@@ -238,7 +238,7 @@ on May 1, 2020.
 
 *	Shift to a more persistent El Nino regime (NINO) . . . a shift of the ENSO mean state towards El Nino like conditions. (A) 10 (A*) 1 (B) 3 [Reasons: original definition remote; Model results, paleo record inconclusive] (C) 1 [impacts of El Nino superimposed on a warmer world uncertain]
 
-(Notes: Option A: event will lead to potentially dangerous climate change, and willing to answer questions about its probability; option B: elicitation of probabilities not appropriate; option C: event will not lead to potentially dangerous climate change. See Table S1 for more details of the expert response ).
+* (Notes: Option A: event will lead to potentially dangerous climate change, and willing to answer questions about its probability; option B: elicitation of probabilities not appropriate; option C: event will not lead to potentially dangerous climate change. See Table S1 for more details of the expert response ).
 
 
 
