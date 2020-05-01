@@ -81,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/3684ee965502d5675e8e4ae1f0c75d417e8f31bf/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/3684ee965502d5675e8e4ae1f0c75d417e8f31bf/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/3684ee965502d5675e8e4ae1f0c75d417e8f31bf/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -117,9 +117,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/))
+([permalink](https://desanker.github.io/globalnap/v/3684ee965502d5675e8e4ae1f0c75d417e8f31bf/))
 was automatically generated
-from [desanker/globalnap@1f8694e](https://github.com/desanker/globalnap/tree/1f8694e4841b134f0fd7407393452228738610a7)
+from [desanker/globalnap@3684ee9](https://github.com/desanker/globalnap/tree/3684ee965502d5675e8e4ae1f0c75d417e8f31bf)
 on May 1, 2020.
 </em></small>
 
@@ -174,6 +174,20 @@ on May 1, 2020.
 
 
 # Global Open NAP
+
+## List of Papers
+
+1. The Global Open NAP
+
+2. Developing climate change scenarios that capture impact climate change hazards at all scales, beyond conventional downscaled results for local areas
+
+3. Lessons learned from COVID-19 for climate change risk assessment and management
+
+4. PEG ME Version 2.0: M&E ... how to enrich empirical indicaes with model context about the evolution of the numbers
+
+5. A continuous integration approach in producing living documents: The always up-to-date NAP
+
+
 
 ## Introduction
 
