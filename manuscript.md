@@ -81,11 +81,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://desanker.github.io/globalnap/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/" />
+  <link rel="alternate" type="text/html" href="https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/" />
 
-  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/" />
+  <meta name="manubot_html_url_versioned" content="https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -117,9 +117,9 @@ title: Global Open NAP
 
 <small><em>
 This manuscript
-([permalink](https://desanker.github.io/globalnap/v/94d9e90d803abd94ed7b2b26eaa98614968bf36b/))
+([permalink](https://desanker.github.io/globalnap/v/1f8694e4841b134f0fd7407393452228738610a7/))
 was automatically generated
-from [desanker/globalnap@94d9e90](https://github.com/desanker/globalnap/tree/94d9e90d803abd94ed7b2b26eaa98614968bf36b)
+from [desanker/globalnap@1f8694e](https://github.com/desanker/globalnap/tree/1f8694e4841b134f0fd7407393452228738610a7)
 on May 1, 2020.
 </em></small>
 
@@ -240,6 +240,9 @@ on May 1, 2020.
 
 * (Notes: Option A: event will lead to potentially dangerous climate change, and willing to answer questions about its probability; option B: elicitation of probabilities not appropriate; option C: event will not lead to potentially dangerous climate change. See Table S1 for more details of the expert response ).
 
+Key references
+
+Global flood modeling see @doi.org/10.5194/hess-17-1871-2013.
 
 
 ## References {.page_break_before}
